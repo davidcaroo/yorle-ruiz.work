@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Prevenir scroll horizontal global */
+html,
+body {
+    overflow-x: hidden;
+}
+
+/* Asegurar que todos los elementos respeten el ancho del viewport */
+* {
+    box-sizing: border-box;
+}

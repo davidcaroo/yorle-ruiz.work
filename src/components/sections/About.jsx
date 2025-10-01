@@ -33,7 +33,7 @@ const About = () => {
                 alt={profileData.name}
                 className="rounded-2xl shadow-2xl w-full max-w-md mx-auto"
               />
-              <div className="absolute -bottom-6 -right-6 w-48 h-48 bg-primary-500 rounded-full opacity-20 blur-3xl"></div>
+              <div className="absolute -bottom-4 -right-4 w-32 h-32 md:w-48 md:h-48 bg-primary-500 rounded-full opacity-20 blur-3xl"></div>
             </div>
           </motion.div>
 
