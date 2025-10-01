@@ -1,0 +1,53 @@
+{
+  "technical": {
+    "title": "Habilidades Técnicas",
+    "categories": [
+      {
+        "name": "Lenguajes",
+        "skills": [
+          { "name": "PHP", "level": 90 },
+          { "name": "JavaScript (ES6+)", "level": 85 },
+          { "name": "Python", "level": 70 },
+          { "name": "HTML5", "level": 95 },
+          { "name": "CSS3", "level": 90 }
+        ]
+      },
+      {
+        "name": "Frameworks & CMS",
+        "skills": [
+          { "name": "Laravel", "level": 85 },
+          { "name": "WordPress", "level": 90 },
+          { "name": "Bootstrap", "level": 85 },
+          { "name": "React", "level": 75 }
+        ]
+      },
+      {
+        "name": "Bases de Datos",
+        "skills": [
+          { "name": "MySQL", "level": 85 },
+          { "name": "Firebase", "level": 70 }
+        ]
+      },
+      {
+        "name": "Herramientas",
+        "skills": [
+          { "name": "Git & GitHub", "level": 80 },
+          { "name": "RESTful APIs", "level": 80 },
+          { "name": "SEO", "level": 75 }
+        ]
+      }
+    ]
+  },
+  "soft": {
+    "title": "Habilidades Blandas",
+    "skills": [
+      "Aprendizaje rápido",
+      "Análisis y resolución de problemas",
+      "Trabajo en equipo multidisciplinario",
+      "Comunicación efectiva",
+      "Adaptabilidad",
+      "Gestión del tiempo",
+      "Orientación a resultados"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Yorleidys Ruiz",
+  "title": "Ingeniera Informática | Desarrolladora Web",
+  "location": "Cartagena de Indias, Colombia",
+  "bio": "Ingeniera Informática con más de 1 año de experiencia en desarrollo web backend y frontend. Apasionada por crear soluciones tecnológicas innovadoras que optimicen procesos y mejoren la experiencia de usuario.",
+  "image": "/images/profile/yorleidys-photo.jpg",
+  "contact": {
+    "email": "yorle170203@gmail.com",
+    "phone": "+57 302 259 4141",
+    "linkedin": "https://www.linkedin.com/in/yorleidys-ruiz-71a7a4239/",
+    "github": "#",
+    "portfolio": "#"
+  },
+  "cv": "/cv-yorleidys-ruiz.pdf"
+}

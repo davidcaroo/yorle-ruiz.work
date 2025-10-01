@@ -1,0 +1,145 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Propuesta Docutech",
+      "category": "Desarrollo Web",
+      "description": "Plataforma corporativa desarrollada con WordPress y Laravel, optimizada para rendimiento y SEO.",
+      "image": "/images/projects/docutech.jpg",
+      "technologies": [
+        "WordPress",
+        "Laravel",
+        "PHP",
+        "MySQL"
+      ],
+      "year": "2024",
+      "link": "#",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Ektla",
+      "category": "E-commerce",
+      "description": "Tienda online con integración de pasarelas de pago seguras y panel de gestión de productos.",
+      "image": "/images/projects/ektla.jpg",
+      "technologies": [
+        "WordPress",
+        "WooCommerce",
+        "PHP",
+        "JavaScript"
+      ],
+      "year": "2024",
+      "link": "#",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Transportes Lakes",
+      "category": "Sitio Corporativo",
+      "description": "Página web corporativa para empresa de transporte y logística con sistema de cotizaciones.",
+      "image": "/images/projects/transportes-lakes.jpg",
+      "technologies": [
+        "WordPress",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "year": "2024",
+      "link": "#",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "title": "Automatec LED",
+      "category": "Catálogo Digital",
+      "description": "Catálogo digital responsivo para productos de automatización y LED.",
+      "image": "/images/projects/automatec-led.jpg",
+      "technologies": [
+        "WordPress",
+        "CSS",
+        "JavaScript"
+      ],
+      "year": "2024",
+      "link": "#",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "title": "Eventiventos",
+      "category": "Plataforma Web",
+      "description": "Plataforma para gestión y promoción de eventos con sistema de registro.",
+      "image": "/images/projects/eventiventos.jpg",
+      "technologies": [
+        "Laravel",
+        "PHP",
+        "MySQL",
+        "Bootstrap"
+      ],
+      "year": "2023",
+      "link": "#",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "title": "Hotel Islas del Encanto",
+      "category": "Turismo",
+      "description": "Sistema de reservas online para hotel con integración de calendario y pagos.",
+      "image": "/images/projects/hotel-islas-encanto.jpg",
+      "technologies": [
+        "WordPress",
+        "PHP",
+        "JavaScript",
+        "MySQL"
+      ],
+      "year": "2023",
+      "link": "#",
+      "featured": true
+    },
+    {
+      "id": 7,
+      "title": "DV Tuning",
+      "category": "Landing Page",
+      "description": "Landing page para taller de tunning automotriz con galería de trabajos.",
+      "image": "/images/projects/dv-tuning.jpg",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "year": "2023",
+      "link": "#",
+      "featured": false
+    },
+    {
+      "id": 8,
+      "title": "Drupep",
+      "category": "Desarrollo Web",
+      "description": "Plataforma web para empresa de logística marítima.",
+      "image": "/images/projects/drupep.jpg",
+      "technologies": [
+        "WordPress",
+        "PHP",
+        "CSS"
+      ],
+      "year": "2024",
+      "link": "#",
+      "featured": false
+    },
+    {
+      "id": 9,
+      "title": "Esparta Travel DMC",
+      "category": "Turismo",
+      "description": "Sitio web para agencia de viajes con sistema de paquetes turísticos.",
+      "image": "/images/projects/esparta-travel.jpg",
+      "technologies": [
+        "WordPress",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "year": "2023",
+      "link": "#",
+      "featured": false
+    }
+  ]
+}

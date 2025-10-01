@@ -1,0 +1,43 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "icon": "Code",
+      "title": "Desarrollo Web",
+      "description": "Creación de sitios web personalizados, responsivos y optimizados para SEO. Desarrollo frontend y backend con tecnologías modernas.",
+      "features": [
+        "Sitios web corporativos",
+        "Landing pages efectivas",
+        "Aplicaciones web personalizadas",
+        "Diseño responsivo"
+      ],
+      "technologies": ["React", "Laravel", "PHP", "JavaScript", "HTML", "CSS"]
+    },
+    {
+      "id": 2,
+      "icon": "ShoppingCart",
+      "title": "Tiendas Online",
+      "description": "Desarrollo de e-commerce completo con integración de pasarelas de pago seguras, gestión de inventario y panel administrativo.",
+      "features": [
+        "Integración de pagos seguros",
+        "Panel de gestión de productos",
+        "Carrito de compras optimizado",
+        "Sistema de órdenes y envíos"
+      ],
+      "technologies": ["WooCommerce", "WordPress", "PHP", "MySQL"]
+    },
+    {
+      "id": 3,
+      "icon": "Globe",
+      "title": "Desarrollo en WordPress",
+      "description": "Diseño, desarrollo y personalización de sitios WordPress. Creación de temas y plugins a medida según necesidades específicas.",
+      "features": [
+        "Personalización de temas",
+        "Desarrollo de plugins",
+        "Optimización de velocidad",
+        "Migración y mantenimiento"
+      ],
+      "technologies": ["WordPress", "PHP", "JavaScript", "CSS"]
+    }
+  ]
+}
